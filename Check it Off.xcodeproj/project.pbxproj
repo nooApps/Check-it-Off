@@ -59,7 +59,6 @@
 			children = (
 				0CDAA61A21039EA1002B72BF /* Main.storyboard */,
 				0CDAA61D21039EA2002B72BF /* Assets.xcassets */,
-				0CDAA61F21039EA2002B72BF /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -83,6 +82,7 @@
 		0CDAA61521039EA1002B72BF /* Check it Off */ = {
 			isa = PBXGroup;
 			children = (
+				0CDAA61F21039EA2002B72BF /* LaunchScreen.storyboard */,
 				0CCDAA6621041374008E2F3B /* View */,
 				0CCDAA6521041344008E2F3B /* Controller */,
 				0CCDAA642104130F008E2F3B /* Model */,
